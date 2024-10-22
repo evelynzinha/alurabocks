@@ -22,5 +22,14 @@ criaCartao(
     'oi em ingles é hi (RAI)'
 )
 
+criaCartao(
+    'biologia',
+    'quem é consideradop pai da genética?'
+    'Gregor Mendel'
+)
 
-
+criaCartao(
+    "matematica"
+    'qual é o valor de pi'
+    '3,14'
+)
